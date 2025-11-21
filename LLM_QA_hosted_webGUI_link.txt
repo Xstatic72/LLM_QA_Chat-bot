@@ -2,7 +2,7 @@
 Matric Number: 23CG034114
 
 Live URL: 
-GitHub Repository: 
+GitHub Repository: https://github.com/Xstatic72/LLM_QA_Chat-bot
 
 Instructions:
 1. Deploy the application to Render.com
